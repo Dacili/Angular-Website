@@ -1,5 +1,5 @@
 # Angular-Website "Medi shop"
-Code is not available. You can see a few screenshots of created website.
+Code is private. You can see a few screenshots of created website.
 This "Medi shop" website is something similar to ebay.
 
 ![alt text](https://github.com/Dacili/Angular-Website/blob/master/notificationAddToCart.PNG)
