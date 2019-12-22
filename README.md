@@ -16,3 +16,5 @@ Functionalities are:
 - checkout...
 
 Frontend was created using Angular8, while backend was created using .NET Core. For database was used SQL Server management studio.
+![alt text](https://github.com/Dacili/Angular-Website/blob/master/notificationAddToCart.PNG)
+![alt text](https://github.com/Dacili/Angular-Website/blob/master/oneProductDetails.PNG)
