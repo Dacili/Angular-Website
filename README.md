@@ -12,6 +12,7 @@ Functionalities are:
 - add items to the cart
 - remove items from the cart
 - see the purchase history
+- messages about success or fails were done with side notifications
 - checkout...
 
 Frontend was created using Angular8, while backend was created using .NET Core. For database was used SQL Server management studio.
