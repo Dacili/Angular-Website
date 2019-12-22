@@ -17,7 +17,7 @@ Functionalities are:
 - messages about success or fails were done with side notifications
 - checkout...
 
-Frontend was created using Angular8, while backend was created using .NET Core. For database was used SQL Server management studio.
+Frontend was created using Angular8, while backend was created using .NET Core. Backend has multi tier architecture realization. For database manipulations Entity framework was used. 
 
 ![alt text](https://github.com/Dacili/Angular-Website/blob/master/oneProductDetails.PNG)
 ![alt text](https://github.com/Dacili/Angular-Website/blob/master/cart.PNG)
