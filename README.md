@@ -2,6 +2,8 @@
 Code is not available. You can see a few screenshots of created website.
 This "Medi shop" website is something similar to ebay.
 
+![alt text](https://github.com/Dacili/Angular-Website/blob/master/notificationAddToCart.PNG)
+
 Functionalities are:
 - registration
 - log in
@@ -16,7 +18,7 @@ Functionalities are:
 - checkout...
 
 Frontend was created using Angular8, while backend was created using .NET Core. For database was used SQL Server management studio.
-![alt text](https://github.com/Dacili/Angular-Website/blob/master/notificationAddToCart.PNG)
+
 ![alt text](https://github.com/Dacili/Angular-Website/blob/master/oneProductDetails.PNG)
 ![alt text](https://github.com/Dacili/Angular-Website/blob/master/cart.PNG)
 ![alt text](https://github.com/Dacili/Angular-Website/blob/master/signIn.PNG)
